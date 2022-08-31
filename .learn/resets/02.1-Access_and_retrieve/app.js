@@ -2,7 +2,6 @@
 var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
 
 //1. print the item here
-console.log (my Array [4]);
 
 //2. change 'thursday'a value here to null
 
