@@ -3,7 +3,7 @@ var myArray = ['sunday','monday','tuesday','wednesday','thursday','friday','satu
 
 //1. print the item here
 let thirdday = myArray [2];
-console.log ("thirdday");
+console.log (thirdday);
 
 //2. change 'thursday'a value here to null
 myArray [4] = null;
