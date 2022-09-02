@@ -12,3 +12,4 @@ for(let i = 0; i<10; i++){
     arr.push(Math.floor(Math.random() * 100));
 }
 console.log(arr);
+/workspace/Javascript-Arrays-and-Loops-Interactive/exercises/04.4-Add_items_to_array_looping
